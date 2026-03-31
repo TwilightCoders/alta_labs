@@ -1,0 +1,22 @@
+AllCops:
+  TargetRubyVersion: 3.1
+  NewCops: enable
+  Exclude:
+    - "vendor/**/*"
+    - "tmp/**/*"
+    - "coverage/**/*"
+
+Layout/LineLength:
+  Max: 120
+
+Style/Documentation:
+  Enabled: false
+
+Metrics/MethodLength:
+  Max: 20
+
+Style/StringLiterals:
+  EnforcedStyle: single_quotes
+
+Layout/TrailingEmptyLines:
+  EnforcedStyle: final_newline
