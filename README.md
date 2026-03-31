@@ -1,3 +1,7 @@
+[![Gem Version](https://img.shields.io/gem/v/alta_labs.svg)](https://rubygems.org/gems/alta_labs)
+[![Build Status](https://github.com/TwilightCoders/alta_labs/workflows/CI/badge.svg)](https://github.com/TwilightCoders/alta_labs/actions)
+[![Code Coverage](https://qlty.sh/gh/TwilightCoders/projects/alta_labs/coverage.svg)](https://qlty.sh/gh/TwilightCoders/projects/alta_labs)
+
 # AltaLabs
 
 A Ruby SDK for the [Alta Labs](https://alta.inc) cloud management API. Manage sites, devices, WiFi networks, and more programmatically.
